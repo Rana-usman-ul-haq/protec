@@ -4,6 +4,8 @@ pragma solidity 0.8.24;
 /*
 
 telegram: https://t.me/ProtecErc
+twitter:  https://x.com/protecerc?s=21&t=ASAKQJTx0qiRJCo7qU_CNA
+website:  https://protecsolutions.io/
 
 */
 
